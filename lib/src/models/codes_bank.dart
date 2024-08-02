@@ -337,6 +337,21 @@ const List<Map<String, dynamic>> codes = [
     "code": "DO",
     "dial_code": "+1",
   },
+    {
+    "name": "Dominican Republic",
+    "code": "DO",
+    "dial_code": "+1-809",
+  },
+    {
+    "name": "Dominican Republic",
+    "code": "DO",
+    "dial_code": "+1-849",
+  },
+    {
+    "name": "Dominican Republic",
+    "code": "DO",
+    "dial_code": "+1-829",
+  },
   {
     "name": "Ecuador",
     "code": "EC",
